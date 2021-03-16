@@ -1,0 +1,2 @@
+# koshka
+Russian handwriting checker
